@@ -14,6 +14,7 @@ Free online image tools - resize, convert, compress, and edit.
 
 ## Optimize
 - [Image Compressor](https://img-kit.com/tools/image-compressor/) - Compress images
+- [ImgFlow](https://imgflow.taoliapp.com) - Privacy-first browser-local image compression and format conversion (no upload)
 - [Bulk Resize](https://img-kit.com/tools/bulk-resize/) - Resize multiple images
 
 ## Contributing
